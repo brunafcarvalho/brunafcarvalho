@@ -2,8 +2,8 @@
 <h3 align="center">📊 Analista de Dados | Transformando dados em histórias com clareza e impacto</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/São%20Paulo,-SP-2E8B57?style=flat" alt="Localização">
-  <img src="https://img.shields.io/badge/Disponível%20para%20Freelance-%20?color=87A96B" alt="Status">
+  <img src="https://img.shields.io/badge/Curitiba%20-%20PR-2E8B57?style=flat" alt="Localização: Curitiba - PR">
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%20?color=87A96B" alt="Busco Oportunidades">
   <img src="https://komarev.com/ghpvc/?username=brunafcarvalho&label=Visualizações&color=9874AA&style=flat" alt="Visualizações">
 </p>
 
