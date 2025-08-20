@@ -49,7 +49,6 @@ Análise abrangente de padrões e tendências em queimadas no Brasil, com insigh
 **Tecnologias:** Python, Pandas, Matplotlib, SQL  
 **Destaques:** Identificação de regiões críticas, análise sazonal, correlações com fatores ambientais
 
-[→ Explorar Projeto Completo](https://github.com/brunafcarvalho/analise-queimadas)
 
 ---
 
