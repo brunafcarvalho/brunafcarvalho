@@ -2,17 +2,9 @@
 <h3 align="center">📊 Analista de Dados | Transformando dados em histórias com clareza e impacto</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunafmcarvalho" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:carvalhofernandabruna@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-87A96B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/brunafcarvalho">
-    <img align="center" src="https://img.shields.io/badge/Portfólio-9874AA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/São%20Paulo,-SP-2E8B57?style=flat" alt="Localização">
+  <img src="https://img.shields.io/badge/Disponível%20para%20Freelance-%20?color=87A96B" alt="Status">
+  <img src="https://komarev.com/ghpvc/?username=brunafcarvalho&label=Visualizações&color=9874AA&style=flat" alt="Visualizações">
 </p>
 
 ---
@@ -28,19 +20,18 @@ Sou uma analista de dados em formação com paixão por transformar números em 
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Stack Técnica
 
-### 📋 Ferramentas & Tecnologias
+**Linguagens e Ferramentas:**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-87A96B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-87A96B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Excel-9874AA?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/PowerBI-8B4513?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/Storytelling-2E8B57?style=for-the-badge" alt="Storytelling">
 </p>
 
-### 🌿 Competências em Análise
+**Habilidades em Análise:**
 
 - **Análise Exploratória de Dados (EDA)**
 - **Visualização de Dados Intuitiva**
@@ -62,30 +53,25 @@ Análise abrangente de padrões e tendências em queimadas no Brasil, com insigh
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunafcarvalho&show_icons=true&theme=vue&hide_border=true&bg_color=F5F5DC&text_color=2E8B57&title_color=8B4513&icon_color=9874AA" alt="Estatísticas do GitHub" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafcarvalho&layout=compact&theme=vue&hide_border=true&bg_color=F5F5DC&text_color=2E8B57&title_color=8B4513" height="160" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunafcarvalho&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&text_color=2E8B57&title_color=8B4513&icon_color=9874AA" alt="Estatísticas" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafcarvalho&layout=compact&theme=vue&hide_border=true&bg_color=00000000&text_color=2E8B57&title_color=8B4513" height="160" alt="Linguagens"/>
 </p>
 
 ---
 
-## 🌸 Conecte-se Comigo
+## 🌸 Vamos Conversar?
 
 <p align="center">
-  <i>Vamos transformar dados em histórias que importam!</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brunafmcarvalho" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:carvalhofernandabruna@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/brunafcarvalho">🌿 Portfólio</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunafcarvalho&label=Visualizações&color=87A96B&style=flat" alt="Visualizações do perfil" />
+  <a href="https://www.linkedin.com/in/brunafmcarvalho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:carvalhofernandabruna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-87A96B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/brunafcarvalho">
+    <img src="https://img.shields.io/badge/Portfólio-9874AA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
 </p>
