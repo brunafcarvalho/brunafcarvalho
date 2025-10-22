@@ -11,10 +11,10 @@
 
 ## 🌟 Sobre Mim
 
-Sou uma analista de dados em formação com paixão por transformar números em narrativas significativas. Acredito que a verdadeira potência dos dados está na capacidade de contar histórias que impulsionam mudanças e criam impacto real.
+Sou uma analista de dados formada pela EBAC com paixão por transformar números em narrativas significativas. Acredito que a verdadeira potência dos dados está na capacidade de contar histórias que impulsionam mudanças e criam impacto real.
 
 - 🌱 **Atualmente aprendendo:** Python, SQL e Excel avançado
-- 📊 **Foco atual:** Projeto de análise de dados de queimadas
+- 📊 **Foco atual:** Análise de Datas Comemorativas no E-commerce Brasileiro
 - 💡 **Especialidade:** Storytelling com dados e visualizações claras
 - 🎯 **Objetivo:** Bridge entre a análise técnica e a tomada de decisão estratégica
 
@@ -43,11 +43,10 @@ Sou uma analista de dados em formação com paixão por transformar números em 
 
 ## 📈 Projetos em Destaque
 
-### 🔥 Análise de Dados de Queimadas
-Análise abrangente de padrões e tendências em queimadas no Brasil, com insights acionáveis e visualizações claras.
-
-**Tecnologias:** Python, Pandas, Matplotlib, SQL  
-**Destaques:** Identificação de regiões críticas, análise sazonal, correlações com fatores ambientais
+### ## 🚀 Projeto em destaque  
+**[Análise de Datas Comemorativas no E-commerce Brasileiro – 2017](https://github.com/brunafcarvalho/projeto_ecommerce)**  
+- Objetivo: identificar impactos de eventos como Black Friday, Natal e Dia das Mães em vendas, ticket médio e categorias.  
+- Ferramentas: BigQuery, Python (Colab), Looker Studio.  
 
 
 ---
